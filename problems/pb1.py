@@ -1,5 +1,7 @@
-def replace_spaces():
-    pass #TODO:
+def replace_spaces(sentence, string):
+   newString = sentence.replace(" ", string)
+   return newString
+pass 
 
 
 
